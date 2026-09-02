@@ -4,21 +4,14 @@
 
 - `index.html`：网站首页
 - `app.html`：青鹭美育智能体演示界面
-- `assets/`：网页与智能体所需图片资源
-- 演示视频：单独上传到 GitHub Release，不放入普通仓库
+- `assets/`：网页、智能体图片资源与约 95MB 的网页优化演示视频
+- GitHub Release：保留同一优化视频作为备用下载源
 
 ## 发布步骤
 
-1. 在 GitHub 新建一个公开仓库，例如 `qinglu-aesthetic-agent`。
-2. 把本文件夹中的全部内容上传到仓库默认分支的根目录。
-3. 在仓库的 Releases 页面创建 `v1.0`，上传以下视频：
+网站已经发布到 GitHub 用户 `zhangjian8911` 的公开仓库 `qinglu-aesthetic-agent`。Pages 从 `main` 分支根目录发布，首页视频直接从同域 `assets/video/` 加载。
 
-   `../assets/video/qinglu-aesthetic-education-agent-demo.mp4`
-
-4. 本发布包已配置为 GitHub 用户 `zhangjian8911` 和仓库 `qinglu-aesthetic-agent`，无需再次修改视频地址。
-5. 在仓库 `Settings → Pages` 中，将发布来源设为默认分支根目录，保存后等待部署完成。
-
-发布网址通常为：
+公开网址：
 
 `https://zhangjian8911.github.io/qinglu-aesthetic-agent/`
 
