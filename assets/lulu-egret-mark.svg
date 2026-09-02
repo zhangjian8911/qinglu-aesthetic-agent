@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">青鹭美育智能体标志</title>
+  <desc id="desc">与智能体工作台及网站首页一致的白鹭品牌标志</desc>
+  <defs>
+    <linearGradient id="brand" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1677FF"/>
+      <stop offset=".7" stop-color="#5739F2"/>
+      <stop offset="1" stop-color="#7C20E8"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="19" fill="url(#brand)"/>
+  <path fill="#FFFFFF" d="M9 57c2.1-9.2 7.5-15.2 16.3-18.2-5.2-3.7-7.8-9.1-7-15.2C19.4 14 27.1 7 37.4 7c9 0 15.7 4.6 18.6 12.1-5.3-1.5-10.4-.1-14.3 3.8 7.6.5 12.5 5.1 12.5 11.7 0 7.4-5.7 12.1-14.9 13.1-6.5.8-9.7 3.8-10.2 9.3H9Z"/>
+  <path fill="#FFFFFF" d="M25.7 15.1C19 13.8 13.7 10.2 10.4 4.1c5.5 3.6 10.6 5 16.1 4.3-1.2-3.2-.1-6.1 3.4-8.4.2 4.8 2.6 8.4 7 10.8l-11.2 4.3Z"/>
+  <path fill="#F5BC47" d="m50.2 22.1 13.3 3.2-13.3 3.3Z"/>
+  <circle cx="46.8" cy="18.7" r="2.5" fill="#13203A"/>
+  <circle cx="47.6" cy="17.9" r=".7" fill="#FFFFFF"/>
+  <path fill="#DCEAFF" d="M23.9 39.6c6.7 2.1 13.2.8 18.8-4-2.8 7-8.4 11.3-17.1 12.6l-5.9-3 4.2-5.6Z"/>
+</svg>
